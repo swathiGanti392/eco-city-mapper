@@ -1,0 +1,43 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
+
+# Build
+dist/
+build/
+
+# Data (never commit large satellite imagery or city data)
+data/
+*.tif
+*.tiff
+*.geotiff
+*.nc
+*.hdf
+data*.csv
+city*.json
+sensor*.json
+satellite*.json
+*.db
+*.sqlite
+
+# Logs
+logs/
+*.log
+
+# Credentials
+credentials.json
+.env
+*.key
+*.pem
+
+# Temporary files
+*.tmp
+*.swp
+.cache/

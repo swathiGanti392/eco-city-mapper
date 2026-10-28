@@ -1,0 +1,27 @@
+{
+  "name": "eco-city-mapper",
+  "version": "1.0.0",
+  "description": "A comprehensive environmental mapping system that correlates Air Quality Index (AQI) with land use patterns, water bodies, and vehicle density to identify urban greening opportunities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet - this is a concept project\" && exit 0"
+  },
+  "keywords": [
+    "environment",
+    "aqi",
+    "air-quality",
+    "land-use",
+    "urban-planning",
+    "gis",
+    "satellite-imagery",
+    "green-space",
+    "pollution",
+    "sustainability"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swathiGanti392/eco-city-mapper"
+  }
+}
